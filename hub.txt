@@ -1,0 +1,6 @@
+hub bosTau9_bovineBlastocystRNAseq
+shortLabel bovine blastocyst RNA-seq
+longLabel RNA-seq on bovine blastocysts cultered under different conditions
+genomesFile genomes.txt
+email daveiles@omicsltd.com
+descriptionUrl

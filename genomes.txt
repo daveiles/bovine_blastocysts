@@ -1,0 +1,2 @@
+genome bosTau9
+trackDb trackDb.txt

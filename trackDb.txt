@@ -1,0 +1,924 @@
+track IEB1
+shortLabel inVivoEarly-1
+longLabel in vivo early blastocyst 1
+bigDataUrl https://s3.eu-west-2.amazonaws.com/omicsltd.redgroup/bovine_blastocysts/IEB1_genomeCov.bw
+type bigWig 0 10000
+maxHeightPixels 100:30:10
+viewLimits 0:5000
+visibility hide
+alwaysZero on
+autoScale on
+color 204,153,0
+graphTypeDefault bar 
+windowingFunction maximum 
+smoothingWindow off
+
+track IEB2
+shortLabel inVivoEarly-2
+longLabel in vivo early blastocyst2
+bigDataUrl https://s3.eu-west-2.amazonaws.com/omicsltd.redgroup/bovine_blastocysts/IEB2_genomeCov.bw
+type bigWig 0 10000
+maxHeightPixels 100:30:10
+viewLimits 0:5000
+visibility hide
+alwaysZero on
+autoScale on
+color 204,153,0
+graphTypeDefault bar 
+windowingFunction maximum 
+smoothingWindow off
+
+track IEB3
+shortLabel inVivoEarly-3
+longLabel in vivo early blastocyst 3
+bigDataUrl https://s3.eu-west-2.amazonaws.com/omicsltd.redgroup/bovine_blastocysts/IEB3_genomeCov.bw
+type bigWig 0 10000
+maxHeightPixels 100:30:10
+viewLimits 0:5000
+visibility hide
+alwaysZero on
+autoScale on
+color 204,153,0
+graphTypeDefault bar 
+windowingFunction maximum 
+smoothingWindow off
+
+track IB1
+shortLabel in vivo-1
+longLabel in vivo blastocyst 1
+bigDataUrl https://s3.eu-west-2.amazonaws.com/omicsltd.redgroup/bovine_blastocysts/IB1_genomeCov.bw
+type bigWig 0 10000
+maxHeightPixels 100:30:10
+viewLimits 0:5000
+visibility hide
+alwaysZero on
+autoScale on
+color 146,208,80
+graphTypeDefault bar 
+windowingFunction maximum 
+smoothingWindow off
+
+track IB2
+shortLabel in vivo-2
+longLabel in vivo blastocyst 2
+bigDataUrl https://s3.eu-west-2.amazonaws.com/omicsltd.redgroup/bovine_blastocysts/IB2_genomeCov.bw
+type bigWig 0 10000
+maxHeightPixels 100:30:10
+viewLimits 0:5000
+visibility hide
+alwaysZero on
+autoScale on
+color 146,208,80
+graphTypeDefault bar 
+windowingFunction maximum 
+smoothingWindow off
+
+track IB3
+shortLabel in vivo-3
+longLabel in vivo blastocyst 3
+bigDataUrl https://s3.eu-west-2.amazonaws.com/omicsltd.redgroup/bovine_blastocysts/IB3_genomeCov.bw
+type bigWig 0 10000
+maxHeightPixels 100:30:10
+viewLimits 0:5000
+visibility hide
+alwaysZero on
+autoScale on
+color 146,208,80
+graphTypeDefault bar 
+windowingFunction maximum 
+smoothingWindow off
+
+track IB4
+shortLabel in vivo-4
+longLabel in vivo blastocyst 4
+bigDataUrl https://s3.eu-west-2.amazonaws.com/omicsltd.redgroup/bovine_blastocysts/IB4_genomeCov.bw
+type bigWig 0 10000
+maxHeightPixels 100:30:10
+viewLimits 0:5000
+visibility hide
+alwaysZero on
+autoScale on
+color 146,208,80
+graphTypeDefault bar 
+windowingFunction maximum 
+smoothingWindow off
+
+track IB5
+shortLabel in vivo-5
+longLabel in vivo blastocyst 5
+bigDataUrl https://s3.eu-west-2.amazonaws.com/omicsltd.redgroup/bovine_blastocysts/IB5_genomeCov.bw
+type bigWig 0 10000
+maxHeightPixels 100:30:10
+viewLimits 0:5000
+visibility hide
+alwaysZero on
+autoScale on
+color 146,208,80
+graphTypeDefault bar 
+windowingFunction maximum 
+smoothingWindow off
+
+track IB6
+shortLabel in vivo-6
+longLabel in vivo blastocyst 6
+bigDataUrl https://s3.eu-west-2.amazonaws.com/omicsltd.redgroup/bovine_blastocysts/IB6_genomeCov.bw
+type bigWig 0 10000
+maxHeightPixels 100:30:10
+viewLimits 0:5000
+visibility hide
+alwaysZero on
+autoScale on
+color 146,208,80
+graphTypeDefault bar 
+windowingFunction maximum 
+smoothingWindow off
+
+track IE1
+shortLabel inVivoExp-1
+longLabel in vivo expanded blastocyst 1
+bigDataUrl https://s3.eu-west-2.amazonaws.com/omicsltd.redgroup/bovine_blastocysts/IE1_genomeCov.bw
+type bigWig 0 10000
+maxHeightPixels 100:30:10
+viewLimits 0:5000
+visibility hide
+alwaysZero on
+autoScale on
+color 0,176,240
+graphTypeDefault bar 
+windowingFunction maximum 
+smoothingWindow off
+
+track IE2
+shortLabel inVivoExp-2
+longLabel in vivo expanded blastocyst 2
+bigDataUrl https://s3.eu-west-2.amazonaws.com/omicsltd.redgroup/bovine_blastocysts/IE2_genomeCov.bw
+type bigWig 0 10000
+maxHeightPixels 100:30:10
+viewLimits 0:5000
+visibility hide
+alwaysZero on
+autoScale on
+color 0,176,240
+graphTypeDefault bar 
+windowingFunction maximum 
+smoothingWindow off
+
+track IE3
+shortLabel inVivoExp-3
+longLabel in vivo expanded blastocyst 3
+bigDataUrl https://s3.eu-west-2.amazonaws.com/omicsltd.redgroup/bovine_blastocysts/IE3_genomeCov.bw
+type bigWig 0 10000
+maxHeightPixels 100:30:10
+viewLimits 0:5000
+visibility hide
+alwaysZero on
+autoScale on
+color 0,176,240
+graphTypeDefault bar 
+windowingFunction maximum 
+smoothingWindow off
+
+track DEB1
+shortLabel deviceEarly-1
+longLabel device early blastocyst 1
+bigDataUrl https://s3.eu-west-2.amazonaws.com/omicsltd.redgroup/bovine_blastocysts/DEB1_genomeCov.bw
+type bigWig 0 10000
+maxHeightPixels 100:30:10
+viewLimits 0:5000
+visibility hide
+alwaysZero on
+autoScale on
+color 204,153,0
+graphTypeDefault bar 
+windowingFunction maximum 
+smoothingWindow off
+
+track DEB2
+shortLabel deviceEarly-2
+longLabel device early blastocyst 2
+bigDataUrl https://s3.eu-west-2.amazonaws.com/omicsltd.redgroup/bovine_blastocysts/DEB2_genomeCov.bw
+type bigWig 0 10000
+maxHeightPixels 100:30:10
+viewLimits 0:5000
+visibility hide
+alwaysZero on
+autoScale on
+color 204,153,0
+graphTypeDefault bar 
+windowingFunction maximum 
+smoothingWindow off
+
+track DEB3
+shortLabel deviceEarly-3
+longLabel device early blastocyst 3
+bigDataUrl https://s3.eu-west-2.amazonaws.com/omicsltd.redgroup/bovine_blastocysts/DEB3_genomeCov.bw
+type bigWig 0 10000
+maxHeightPixels 100:30:10
+viewLimits 0:5000
+visibility hide
+alwaysZero on
+autoScale on
+color 204,153,0
+graphTypeDefault bar 
+windowingFunction maximum 
+smoothingWindow off
+
+track DB1
+shortLabel device-1
+longLabel device blastocyst 1
+bigDataUrl https://s3.eu-west-2.amazonaws.com/omicsltd.redgroup/bovine_blastocysts/DB1_genomeCov.bw
+type bigWig 0 10000
+maxHeightPixels 100:30:10
+viewLimits 0:5000
+visibility hide
+alwaysZero on
+autoScale on
+color 146,208,80
+graphTypeDefault bar 
+windowingFunction maximum 
+smoothingWindow off
+
+track DB2
+shortLabel device-2
+longLabel device blastocyst 2
+bigDataUrl https://s3.eu-west-2.amazonaws.com/omicsltd.redgroup/bovine_blastocysts/DB2_genomeCov.bw
+type bigWig 0 10000
+maxHeightPixels 100:30:10
+viewLimits 0:5000
+visibility hide
+alwaysZero on
+autoScale on
+color 146,208,80
+graphTypeDefault bar 
+windowingFunction maximum 
+smoothingWindow off
+
+track DB3
+shortLabel device-3
+longLabel device blastocyst 3
+bigDataUrl https://s3.eu-west-2.amazonaws.com/omicsltd.redgroup/bovine_blastocysts/DB3_genomeCov.bw
+type bigWig 0 10000
+maxHeightPixels 100:30:10
+viewLimits 0:5000
+visibility hide
+alwaysZero on
+autoScale on
+color 146,208,80
+graphTypeDefault bar 
+windowingFunction maximum 
+smoothingWindow off
+
+track DB4
+shortLabel device-4
+longLabel device blastocyst 4
+bigDataUrl https://s3.eu-west-2.amazonaws.com/omicsltd.redgroup/bovine_blastocysts/DB4_genomeCov.bw
+type bigWig 0 10000
+maxHeightPixels 100:30:10
+viewLimits 0:5000
+visibility hide
+alwaysZero on
+autoScale on
+color 146,208,80
+graphTypeDefault bar 
+windowingFunction maximum 
+smoothingWindow off
+
+track DB5
+shortLabel device-5
+longLabel device blastocyst 5
+bigDataUrl https://s3.eu-west-2.amazonaws.com/omicsltd.redgroup/bovine_blastocysts/DB5_genomeCov.bw
+type bigWig 0 10000
+maxHeightPixels 100:30:10
+viewLimits 0:5000
+visibility hide
+alwaysZero on
+autoScale on
+color 146,208,80
+graphTypeDefault bar 
+windowingFunction maximum 
+smoothingWindow off
+
+track DB6
+shortLabel device-6
+longLabel device blastocyst 6 
+bigDataUrl https://s3.eu-west-2.amazonaws.com/omicsltd.redgroup/bovine_blastocysts/DB6_genomeCov.bw
+type bigWig 0 10000
+maxHeightPixels 100:30:10
+viewLimits 0:5000
+visibility hide
+alwaysZero on
+autoScale on
+color 146,208,80
+graphTypeDefault bar 
+windowingFunction maximum 
+smoothingWindow off
+
+track DB7
+shortLabel device-7
+longLabel device blastocyst 7
+bigDataUrl https://s3.eu-west-2.amazonaws.com/omicsltd.redgroup/bovine_blastocysts/DB7_genomeCov.bw
+type bigWig 0 10000
+maxHeightPixels 100:30:10
+viewLimits 0:5000
+visibility hide
+alwaysZero on
+autoScale on
+color 146,208,80
+graphTypeDefault bar 
+windowingFunction maximum 
+smoothingWindow off
+
+track DE1
+shortLabel deviceExp-1
+longLabel device expanded blastocyst 1
+bigDataUrl https://s3.eu-west-2.amazonaws.com/omicsltd.redgroup/bovine_blastocysts/DE1_genomeCov.bw
+type bigWig 0 10000
+maxHeightPixels 100:30:10
+viewLimits 0:5000
+visibility hide
+alwaysZero on
+autoScale on
+color 0,176,240
+graphTypeDefault bar 
+windowingFunction maximum 
+smoothingWindow off
+
+track DE2
+shortLabel deviceExp-2
+longLabel device expanded blastocyst 2
+bigDataUrl https://s3.eu-west-2.amazonaws.com/omicsltd.redgroup/bovine_blastocysts/DE2_genomeCov.bw
+type bigWig 0 10000
+maxHeightPixels 100:30:10
+viewLimits 0:5000
+visibility hide
+alwaysZero on
+autoScale on
+color 0,176,240
+graphTypeDefault bar 
+windowingFunction maximum 
+smoothingWindow off
+
+track CEB1
+shortLabel microDropEarly-1
+longLabel microDrop early blastocyst 1
+bigDataUrl https://s3.eu-west-2.amazonaws.com/omicsltd.redgroup/bovine_blastocysts/CEB1_genomeCov.bw
+type bigWig 0 10000
+maxHeightPixels 100:30:10
+viewLimits 0:5000
+visibility hide
+alwaysZero on
+autoScale on
+color 204,153,0
+graphTypeDefault bar 
+windowingFunction maximum 
+smoothingWindow off
+
+track CEB4
+shortLabel microDropEarly-4
+longLabel microDrop early blastocyst 4
+bigDataUrl https://s3.eu-west-2.amazonaws.com/omicsltd.redgroup/bovine_blastocysts/CEB4_genomeCov.bw
+type bigWig 0 10000
+maxHeightPixels 100:30:10
+viewLimits 0:5000
+visibility hide
+alwaysZero on
+autoScale on
+color 204,153,0
+graphTypeDefault bar 
+windowingFunction maximum 
+smoothingWindow off
+
+track CEB5
+shortLabel microDropEarly-5
+longLabel microDrop early blastocyst 5
+bigDataUrl https://s3.eu-west-2.amazonaws.com/omicsltd.redgroup/bovine_blastocysts/CEB5_genomeCov.bw
+type bigWig 0 10000
+maxHeightPixels 100:30:10
+viewLimits 0:5000
+visibility hide
+alwaysZero on
+autoScale on
+color 204,153,0
+graphTypeDefault bar 
+windowingFunction maximum 
+smoothingWindow off
+
+track CB1
+shortLabel microDrop-1
+longLabel microDrop blastocyst 1
+bigDataUrl https://s3.eu-west-2.amazonaws.com/omicsltd.redgroup/bovine_blastocysts/CB1_genomeCov.bw
+type bigWig 0 10000
+maxHeightPixels 100:30:10
+viewLimits 0:5000
+visibility hide
+alwaysZero on
+autoScale on
+color 146,208,80
+graphTypeDefault bar 
+windowingFunction maximum 
+smoothingWindow off
+
+track CB2
+shortLabel microDrop-2
+longLabel microDrop blastocyst 2
+bigDataUrl https://s3.eu-west-2.amazonaws.com/omicsltd.redgroup/bovine_blastocysts/CB2_genomeCov.bw
+type bigWig 0 10000
+maxHeightPixels 100:30:10
+viewLimits 0:5000
+visibility hide
+alwaysZero on
+autoScale on
+color 146,208,80
+graphTypeDefault bar 
+windowingFunction maximum 
+smoothingWindow off
+
+track CB6
+shortLabel microDrop-6
+longLabel microDrop blastocyst 6
+bigDataUrl https://s3.eu-west-2.amazonaws.com/omicsltd.redgroup/bovine_blastocysts/CB6_genomeCov.bw
+type bigWig 0 10000
+maxHeightPixels 100:30:10
+viewLimits 0:5000
+visibility hide
+alwaysZero on
+autoScale on
+color 146,208,80
+graphTypeDefault bar 
+windowingFunction maximum 
+smoothingWindow off
+
+track CB8
+shortLabel microDrop-8
+longLabel microDrop blastocyst 8 
+bigDataUrl https://s3.eu-west-2.amazonaws.com/omicsltd.redgroup/bovine_blastocysts/CB8_genomeCov.bw
+type bigWig 0 10000
+maxHeightPixels 100:30:10
+viewLimits 0:5000
+visibility hide
+alwaysZero on
+autoScale on
+color 146,208,80
+graphTypeDefault bar 
+windowingFunction maximum 
+smoothingWindow off
+
+track CB9
+shortLabel microDrop-9
+longLabel microDrop blastocyst 9
+bigDataUrl https://s3.eu-west-2.amazonaws.com/omicsltd.redgroup/bovine_blastocysts/CB9_genomeCov.bw
+type bigWig 0 10000
+maxHeightPixels 100:30:10
+viewLimits 0:5000
+visibility hide
+alwaysZero on
+autoScale on
+color 146,208,80
+graphTypeDefault bar 
+windowingFunction maximum 
+smoothingWindow off
+
+track CB10
+shortLabel microDrop-10
+longLabel microDrop blastocyst 10
+bigDataUrl https://s3.eu-west-2.amazonaws.com/omicsltd.redgroup/bovine_blastocysts/CB10_genomeCov.bw
+type bigWig 0 10000
+maxHeightPixels 100:30:10
+viewLimits 0:5000
+visibility hide
+alwaysZero on
+autoScale on
+color 146,208,80
+graphTypeDefault bar 
+windowingFunction maximum 
+smoothingWindow off
+
+track CE2
+shortLabel microDropExp-2
+longLabel microDrop expanded blastocyst 2
+bigDataUrl https://s3.eu-west-2.amazonaws.com/omicsltd.redgroup/bovine_blastocysts/CE2_genomeCov.bw
+type bigWig 0 10000
+maxHeightPixels 100:30:10
+viewLimits 0:5000
+visibility hide
+alwaysZero on
+autoScale on
+color 0,176,240
+graphTypeDefault bar 
+windowingFunction maximum 
+smoothingWindow off
+
+track CE3
+shortLabel microDropExp-3
+longLabel microDrop expanded blastocyst 3
+bigDataUrl https://s3.eu-west-2.amazonaws.com/omicsltd.redgroup/bovine_blastocysts/CE3_genomeCov.bw
+type bigWig 0 10000
+maxHeightPixels 100:30:10
+viewLimits 0:5000
+visibility hide
+alwaysZero on
+autoScale on
+color 0,176,240
+graphTypeDefault bar 
+windowingFunction maximum 
+smoothingWindow off
+
+track CE4
+shortLabel microDropExp-4
+longLabel microDrop expanded blastocyst 4
+bigDataUrl https://s3.eu-west-2.amazonaws.com/omicsltd.redgroup/bovine_blastocysts/CE4_genomeCov.bw
+type bigWig 0 10000
+maxHeightPixels 100:30:10
+viewLimits 0:5000
+visibility hide
+alwaysZero on
+autoScale on
+color 0,176,240
+graphTypeDefault bar 
+windowingFunction maximum 
+smoothingWindow off
+
+track C2B13
+shortLabel microDrop2_B-1
+longLabel microDrop2 blastocyst 13
+bigDataUrl https://s3.eu-west-2.amazonaws.com/omicsltd.redgroup/bovine_blastocysts/C2B13_genomeCov.bw
+type bigWig 0 10000
+maxHeightPixels 100:30:10
+viewLimits 0:5000
+visibility hide
+alwaysZero on
+autoScale on
+color 146,208,80
+graphTypeDefault bar 
+windowingFunction maximum 
+smoothingWindow off
+
+track C2E15
+shortLabel microDrop2_E-6
+longLabel microDrop2 expanded blastocyst 15
+bigDataUrl https://s3.eu-west-2.amazonaws.com/omicsltd.redgroup/bovine_blastocysts/C2E15_genomeCov.bw
+type bigWig 0 10000
+maxHeightPixels 100:30:10
+viewLimits 0:5000
+visibility hide
+alwaysZero on
+autoScale on
+color 0,176,240
+graphTypeDefault bar 
+windowingFunction maximum 
+smoothingWindow off
+
+track C2E16
+shortLabel microDrop2_E-7
+longLabel microDrop2 expanded blastocyst 16
+bigDataUrl https://s3.eu-west-2.amazonaws.com/omicsltd.redgroup/bovine_blastocysts/C2E16_genomeCov.bw
+type bigWig 0 10000
+maxHeightPixels 100:30:10
+viewLimits 0:5000
+visibility hide
+alwaysZero on
+autoScale on
+color 0,176,240
+graphTypeDefault bar 
+windowingFunction maximum 
+smoothingWindow off
+
+track C2E17
+shortLabel microDrop2_E-8
+longLabel microDrop2 expanded blastocyst 17
+bigDataUrl https://s3.eu-west-2.amazonaws.com/omicsltd.redgroup/bovine_blastocysts/C2E17_genomeCov.bw
+type bigWig 0 10000
+maxHeightPixels 100:30:10
+viewLimits 0:5000
+visibility hide
+alwaysZero on
+autoScale on
+color 0,176,240
+graphTypeDefault bar 
+windowingFunction maximum 
+smoothingWindow off
+
+track C2E18
+shortLabel microDrop2_E-9
+longLabel microDrop2 expanded blastocyst 18
+bigDataUrl https://s3.eu-west-2.amazonaws.com/omicsltd.redgroup/bovine_blastocysts/C2E18_genomeCov.bw
+type bigWig 0 10000
+maxHeightPixels 100:30:10
+viewLimits 0:5000
+visibility hide
+alwaysZero on
+autoScale on
+color 0,176,240
+graphTypeDefault bar 
+windowingFunction maximum 
+smoothingWindow off
+
+track C2E1
+shortLabel microDrop2_E-1
+longLabel microDrop2 expanded blastocyst 1
+bigDataUrl https://s3.eu-west-2.amazonaws.com/omicsltd.redgroup/bovine_blastocysts/C2E1_genomeCov.bw
+type bigWig 0 10000
+maxHeightPixels 100:30:10
+viewLimits 0:5000
+visibility hide
+alwaysZero on
+autoScale on
+color 0,176,240
+graphTypeDefault bar 
+windowingFunction maximum 
+smoothingWindow off
+
+track C2E20
+shortLabel microDrop2_E-10
+longLabel microDrop2 expanded blastocyst 10
+bigDataUrl https://s3.eu-west-2.amazonaws.com/omicsltd.redgroup/bovine_blastocysts/C2E20_genomeCov.bw
+type bigWig 0 10000
+maxHeightPixels 100:30:10
+viewLimits 0:5000
+visibility hide
+alwaysZero on
+autoScale on
+color 0,176,240
+graphTypeDefault bar 
+windowingFunction maximum 
+smoothingWindow off
+
+track C2E2
+shortLabel microDrop2_E-2
+longLabel microDrop2 expanded blastocyst 2
+bigDataUrl https://s3.eu-west-2.amazonaws.com/omicsltd.redgroup/bovine_blastocysts/C2E2_genomeCov.bw
+type bigWig 0 10000
+maxHeightPixels 100:30:10
+viewLimits 0:5000
+visibility hide
+alwaysZero on
+autoScale on
+color 0,176,240
+graphTypeDefault bar 
+windowingFunction maximum 
+smoothingWindow off
+
+track C2E3
+shortLabel microDrop2_E-3
+longLabel microDrop2 expanded blastocy3
+bigDataUrl https://s3.eu-west-2.amazonaws.com/omicsltd.redgroup/bovine_blastocysts/C2E3_genomeCov.bw
+type bigWig 0 10000
+maxHeightPixels 100:30:10
+viewLimits 0:5000
+visibility hide
+alwaysZero on
+autoScale on
+color 0,176,240
+graphTypeDefault bar 
+windowingFunction maximum 
+smoothingWindow off
+
+track C2E3
+shortLabel microDrop2_E-3
+longLabel microDrop2 expanded blastocyst 3
+bigDataUrl https://s3.eu-west-2.amazonaws.com/omicsltd.redgroup/bovine_blastocysts/C2E3_genomeCov.bw
+type bigWig 0 10000
+maxHeightPixels 100:30:10
+viewLimits 0:5000
+visibility hide
+alwaysZero on
+autoScale on
+color 0,176,240
+graphTypeDefault bar 
+windowingFunction maximum 
+smoothingWindow off
+
+track C2E4
+shortLabel microDrop2_E-4
+longLabel microDrop2 expanded blastocyst 4
+bigDataUrl https://s3.eu-west-2.amazonaws.com/omicsltd.redgroup/bovine_blastocysts/C2E4_genomeCov.bw
+type bigWig 0 10000
+maxHeightPixels 100:30:10
+viewLimits 0:5000
+visibility hide
+alwaysZero on
+autoScale on
+color 0,176,240
+graphTypeDefault bar 
+windowingFunction maximum 
+smoothingWindow off
+
+track C2E5
+shortLabel microDrop2_E-5
+longLabel microDrop2 expanded blastocyst 5
+bigDataUrl https://s3.eu-west-2.amazonaws.com/omicsltd.redgroup/bovine_blastocysts/C2E5_genomeCov.bw
+type bigWig 0 10000
+maxHeightPixels 100:30:10
+viewLimits 0:5000
+visibility hide
+alwaysZero on
+autoScale on
+color 0,176,240
+graphTypeDefault bar 
+windowingFunction maximum 
+smoothingWindow off
+
+track C2EB14
+shortLabel microDrop2_EB-1
+longLabel microDrop2 early blastocyst 14
+bigDataUrl https://s3.eu-west-2.amazonaws.com/omicsltd.redgroup/bovine_blastocysts/C2EB14_genomeCov.bw
+type bigWig 0 10000
+maxHeightPixels 100:30:10
+viewLimits 0:5000
+visibility hide
+alwaysZero on
+autoScale on
+color 204,153,0
+graphTypeDefault bar 
+windowingFunction maximum 
+smoothingWindow off
+
+track D2B24
+shortLabel device2_B-3
+longLabel device2 blastocyst 24
+bigDataUrl https://s3.eu-west-2.amazonaws.com/omicsltd.redgroup/bovine_blastocysts/D2B24_genomeCov.bw
+type bigWig 0 10000
+maxHeightPixels 100:30:10
+viewLimits 0:5000
+visibility hide
+alwaysZero on
+autoScale on
+color 146,208,80
+graphTypeDefault bar 
+windowingFunction maximum 
+smoothingWindow off
+
+track D2B4
+shortLabel device2_B-1
+longLabel device2 blastocyst 4
+bigDataUrl https://s3.eu-west-2.amazonaws.com/omicsltd.redgroup/bovine_blastocysts/D2B4_genomeCov.bw
+type bigWig 0 10000
+maxHeightPixels 100:30:10
+viewLimits 0:5000
+visibility hide
+alwaysZero on
+autoScale on
+color 146,208,80
+graphTypeDefault bar 
+windowingFunction maximum 
+smoothingWindow off
+
+track D2B5
+shortLabel device2_B-2
+longLabel device2 blastocyst 5
+bigDataUrl https://s3.eu-west-2.amazonaws.com/omicsltd.redgroup/bovine_blastocysts/D2B5_genomeCov.bw
+type bigWig 0 10000
+maxHeightPixels 100:30:10
+viewLimits 0:5000
+visibility hide
+alwaysZero on
+autoScale on
+color 146,208,80
+graphTypeDefault bar 
+windowingFunction maximum 
+smoothingWindow off
+
+track D2E27
+shortLabel device2_E-6
+longLabel device expanded blastocyst 27
+bigDataUrl https://s3.eu-west-2.amazonaws.com/omicsltd.redgroup/bovine_blastocysts/D2E27_genomeCov.bw
+type bigWig 0 10000
+maxHeightPixels 100:30:10
+viewLimits 0:5000
+visibility hide
+alwaysZero on
+autoScale on
+color 0,176,240
+graphTypeDefault bar 
+windowingFunction maximum 
+smoothingWindow off
+
+track D2E2
+shortLabel device2_E-1
+longLabel device expanded blastocyst 2
+bigDataUrl https://s3.eu-west-2.amazonaws.com/omicsltd.redgroup/bovine_blastocysts/D2E2_genomeCov.bw
+type bigWig 0 10000
+maxHeightPixels 100:30:10
+viewLimits 0:5000
+visibility hide
+alwaysZero on
+autoScale on
+color 0,176,240
+graphTypeDefault bar 
+windowingFunction maximum 
+smoothingWindow off
+
+track D2E3a
+shortLabel device2_E-2
+longLabel device expanded blastocyst 3a
+bigDataUrl https://s3.eu-west-2.amazonaws.com/omicsltd.redgroup/bovine_blastocysts/D2E3a_genomeCov.bw
+type bigWig 0 10000
+maxHeightPixels 100:30:10
+viewLimits 0:5000
+visibility hide
+alwaysZero on
+autoScale on
+color 0,176,240
+graphTypeDefault bar 
+windowingFunction maximum 
+smoothingWindow off
+
+track D2E3b
+shortLabel device2_E-3
+longLabel device2 expanded blastocyst 3b
+bigDataUrl https://s3.eu-west-2.amazonaws.com/omicsltd.redgroup/bovine_blastocysts/D2E3b_genomeCov.bw
+type bigWig 0 10000
+maxHeightPixels 100:30:10
+viewLimits 0:5000
+visibility hide
+alwaysZero on
+autoScale on
+color 0,176,240
+graphTypeDefault bar 
+windowingFunction maximum 
+smoothingWindow off
+
+track D2E4
+shortLabel device2_E-4
+longLabel device2 expanded blastocyst 4
+bigDataUrl https://s3.eu-west-2.amazonaws.com/omicsltd.redgroup/bovine_blastocysts/D2E4_genomeCov.bw
+type bigWig 0 10000
+maxHeightPixels 100:30:10
+viewLimits 0:5000
+visibility hide
+alwaysZero on
+autoScale on
+color 0,176,240
+graphTypeDefault bar 
+windowingFunction maximum 
+smoothingWindow off
+
+track D2E5
+shortLabel device2_E-5
+longLabel device2 expanded blastocyst 5
+bigDataUrl https://s3.eu-west-2.amazonaws.com/omicsltd.redgroup/bovine_blastocysts/D2E5_genomeCov.bw
+type bigWig 0 10000
+maxHeightPixels 100:30:10
+viewLimits 0:5000
+visibility hide
+alwaysZero on
+autoScale on
+color 0,176,240
+graphTypeDefault bar 
+windowingFunction maximum 
+smoothingWindow off
+
+track D2E8
+shortLabel device2_E-6
+longLabel device2 expanded blastocyst 8
+bigDataUrl https://s3.eu-west-2.amazonaws.com/omicsltd.redgroup/bovine_blastocysts/D2E8_genomeCov.bw
+type bigWig 0 10000
+maxHeightPixels 100:30:10
+viewLimits 0:5000
+visibility hide
+alwaysZero on
+autoScale on
+color 0,176,240
+graphTypeDefault bar 
+windowingFunction maximum 
+smoothingWindow off
+
+track D2EB22
+shortLabel device2_EB-1
+longLabel device2 early blastocyst 22
+bigDataUrl https://s3.eu-west-2.amazonaws.com/omicsltd.redgroup/bovine_blastocysts/D2EB22_genomeCov.bw
+type bigWig 0 10000
+maxHeightPixels 100:30:10
+viewLimits 0:5000
+visibility hide
+alwaysZero on
+autoScale on
+color 204,153,0
+graphTypeDefault bar 
+windowingFunction maximum 
+smoothingWindow off
+
+track D2EB23
+shortLabel device2_EB-2
+longLabel device2 early blastocyst 23
+bigDataUrl https://s3.eu-west-2.amazonaws.com/omicsltd.redgroup/bovine_blastocysts/D2EB23_genomeCov.bw
+type bigWig 0 10000
+maxHeightPixels 100:30:10
+viewLimits 0:5000
+visibility hide
+alwaysZero on
+autoScale on
+color 204,153,0
+graphTypeDefault bar 
+windowingFunction maximum 
+smoothingWindow off
+
+
+
+
+
+
+
+
+
+
