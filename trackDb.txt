@@ -660,21 +660,6 @@ smoothingWindow off
 
 track C2E3
 shortLabel microDrop2_E-3
-longLabel microDrop2 expanded blastocy3
-bigDataUrl https://s3.eu-west-2.amazonaws.com/omicsltd.redgroup/bovine_blastocysts/C2E3_genomeCov.bw
-type bigWig 0 10000
-maxHeightPixels 100:30:10
-viewLimits 0:5000
-visibility hide
-alwaysZero on
-autoScale on
-color 0,176,240
-graphTypeDefault bar 
-windowingFunction maximum 
-smoothingWindow off
-
-track C2E3
-shortLabel microDrop2_E-3
 longLabel microDrop2 expanded blastocyst 3
 bigDataUrl https://s3.eu-west-2.amazonaws.com/omicsltd.redgroup/bovine_blastocysts/C2E3_genomeCov.bw
 type bigWig 0 10000
